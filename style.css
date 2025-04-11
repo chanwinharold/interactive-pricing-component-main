@@ -65,6 +65,7 @@ header h1 {
 
 
 main {
+    max-width: 98vw;
     display: flex;
     flex-direction: column;
 
@@ -158,10 +159,6 @@ main {
     }
     header p {
         font-size: calc(var(--size)*0.8);
-    }
-
-    main { 
-        max-width: 95vw;
     }
 
     .section_top {
