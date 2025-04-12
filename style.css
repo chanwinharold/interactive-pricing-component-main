@@ -54,7 +54,7 @@ body {
 header {
     animation: header-appear 600ms ease-in-out;
 
-    padding-block: calc(var(--spacing)*3);
+    padding-block: calc(var(--spacing)*2);
     text-align: center;
     background: url("images/pattern-circles.svg") center no-repeat;
 }
