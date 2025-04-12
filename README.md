@@ -38,8 +38,8 @@ If the visitor switches the toggle to yearly billing, a 25% discount should be a
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://github.com/chanwinharold/interactive-pricing-component-main)
+- Live Site URL: [Live site URL here](https://interactive-pricing-component-main-nu.vercel.app/)
 
 ### Built with
 
